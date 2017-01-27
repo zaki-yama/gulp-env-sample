@@ -9,7 +9,7 @@ gulp タスクで `.env` に記載した環境変数を使うために [gulp-env
 $ npm install
 ```
 
-```
+```zsh
 ### node-env-file の場合
 $ gulp node-env-file
 [21:51:19] Starting 'node-env-file'...
